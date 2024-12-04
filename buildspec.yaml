@@ -1,7 +1,6 @@
 version: 0.2
 
 phases:
-runtime: nodejs18
   install:
     commands:
       - echo "Installing dependencies..""
