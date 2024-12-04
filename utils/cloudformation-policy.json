@@ -37,6 +37,7 @@
         "lambda:UpdateFunctionConfiguration",
         "lambda:GetFunction",
         "lambda:ListFunctions",
+        "lambda:ListTags",
         "lambda:AddPermission",
         "lambda:RemovePermission",
         "lambda:DeleteFunction",
